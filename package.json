@@ -1,5 +1,5 @@
 {
-    "scripts": {
-      "build": "npm run build"
+    "dependencies": {
+        "firebase": "^10.13.2"
     }
-  }
+}
